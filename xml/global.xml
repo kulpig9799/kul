@@ -12,35 +12,35 @@
 		<image path="assets/images/IMG_4275.mp4" type="FILL"/>
 	</slideshow>
 	<slideshow duration="4000">
-		<image path="assets/images/1.jpg" type="FILL"/>
-		<image path="assets/images/2.jpg" type="FILL"/>
-		<image path="assets/images/3.jpg" type="FILL"/>
-		<image path="assets/images/4.jpg" type="FILL"/>
-		<image path="assets/images/5.jpg" type="FILL"/>
-		<image path="assets/images/6.jpg" type="FILL"/>
-		<image path="assets/images/7.jpg" type="FILL"/>
-		<image path="assets/images/8.jpg" type="FILL"/>
-		<image path="assets/images/9.jpg" type="FILL"/>
-		<image path="assets/images/10.jpg" type="FILL"/>
-		<image path="assets/images/11.jpg" type="FILL"/>
-		<image path="assets/images/12.jpg" type="FILL"/>
-		<image path="assets/images/13.jpg" type="FILL"/>
-		<image path="assets/images/14.jpg" type="FILL"/>
-		<image path="assets/images/15.jpg" type="FILL"/>
-		<image path="assets/images/16.jpg" type="FILL"/>
-		<image path="assets/images/17.jpg" type="FILL"/>
-		<image path="assets/images/18.jpg" type="FILL"/>
-    <!--<image path="assets/images/19.jpg" type="FILL"/>
-    <image path="assets/images/20.jpg" type="FILL"/>
-    <image path="assets/images/21.jpg" type="FILL"/>
-    <image path="assets/images/22.jpg" type="FILL"/>
-    <image path="assets/images/23.jpg" type="FILL"/>
-    <image path="assets/images/24.jpg" type="FILL"/>
-    <image path="assets/images/25.jpg" type="FILL"/>
-    <image path="assets/images/26.jpg" type="FILL"/>
-    <image path="assets/images/27.jpg" type="FILL"/>
-    <image path="assets/images/28.jpg" type="FILL"/>-->
-    <image path="assets/images/29.jpg" type="FILL"/>
+		<image path="assets/images/1.JPG" type="FILL"/>
+		<image path="assets/images/2.JPG" type="FILL"/>
+		<image path="assets/images/3.JPG" type="FILL"/>
+		<image path="assets/images/4.JPG" type="FILL"/>
+		<image path="assets/images/5.JPG" type="FILL"/>
+		<image path="assets/images/6.JPG" type="FILL"/>
+		<image path="assets/images/7.JPG" type="FILL"/>
+		<image path="assets/images/8.JPG" type="FILL"/>
+		<image path="assets/images/9.JPG" type="FILL"/>
+		<image path="assets/images/10.JPG" type="FILL"/>
+		<image path="assets/images/11.JPG" type="FILL"/>
+		<image path="assets/images/12.JPG" type="FILL"/>
+		<image path="assets/images/13.JPG" type="FILL"/>
+		<image path="assets/images/14.JPG" type="FILL"/>
+		<image path="assets/images/15.JPG" type="FILL"/>
+		<image path="assets/images/16.JPG" type="FILL"/>
+		<image path="assets/images/17.JPG" type="FILL"/>
+		<image path="assets/images/18.JPG" type="FILL"/>
+    <image path="assets/images/19.JPG" type="FILL"/>
+    <image path="assets/images/20.JPG" type="FILL"/>
+    <image path="assets/images/21.JPG" type="FILL"/>
+    <image path="assets/images/22.JPG" type="FILL"/>
+    <image path="assets/images/23.JPG" type="FILL"/>
+    <image path="assets/images/24.JPG" type="FILL"/>
+    <image path="assets/images/25.JPG" type="FILL"/>
+    <image path="assets/images/26.JPG" type="FILL"/>
+    <image path="assets/images/27.JPG" type="FILL"/>
+    <image path="assets/images/28.JPG" type="FILL"/>
+    <image path="assets/images/29.JPG" type="FILL"/>
 	</slideshow>	
 	<slideshow duration="4000">
 		<image path="assets/images/birthday_background.jpg" type="FILL"/>
