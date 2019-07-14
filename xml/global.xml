@@ -30,7 +30,7 @@
 		<image path="assets/images/16.jpg" type="FILL"/>
 		<image path="assets/images/17.jpg" type="FILL"/>
 		<image path="assets/images/18.jpg" type="FILL"/>
-    <image path="assets/images/19.jpg" type="FILL"/>
+    <!--<image path="assets/images/19.jpg" type="FILL"/>
     <image path="assets/images/20.jpg" type="FILL"/>
     <image path="assets/images/21.jpg" type="FILL"/>
     <image path="assets/images/22.jpg" type="FILL"/>
@@ -39,7 +39,7 @@
     <image path="assets/images/25.jpg" type="FILL"/>
     <image path="assets/images/26.jpg" type="FILL"/>
     <image path="assets/images/27.jpg" type="FILL"/>
-    <image path="assets/images/28.jpg" type="FILL"/>
+    <image path="assets/images/28.jpg" type="FILL"/>-->
     <image path="assets/images/29.jpg" type="FILL"/>
 	</slideshow>	
 	<slideshow duration="4000">
