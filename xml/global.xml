@@ -13,37 +13,37 @@
 		<image path="assets/images/IMG_4275.mp4" type="FILL"/>
 	</slideshow>
 	<slideshow duration="4000">
-		<image path="assets/images/1.JPG" type="FILL"/>
-		<image path="assets/images/2.JPG" type="FILL"/>
-		<image path="assets/images/3.JPG" type="FILL"/>
-		<image path="assets/images/4.JPG" type="FILL"/>
-		<image path="assets/images/5.JPG" type="FILL"/>
-		<image path="assets/images/6.JPG" type="FILL"/>
-		<image path="assets/images/7.JPG" type="FILL"/>
-		<image path="assets/images/8.JPG" type="FILL"/>
-		<image path="assets/images/9.JPG" type="FILL"/>
-		<image path="assets/images/10.JPG" type="FILL"/>
-		<image path="assets/images/11.JPG" type="FILL"/>
-		<image path="assets/images/12.JPG" type="FILL"/>
-		<image path="assets/images/13.JPG" type="FILL"/>
-		<image path="assets/images/14.JPG" type="FILL"/>
-		<image path="assets/images/15.JPG" type="FILL"/>
-		<image path="assets/images/16.JPG" type="FILL"/>
-		<image path="assets/images/17.JPG" type="FILL"/>
-		<image path="assets/images/18.JPG" type="FILL"/>
-    <image path="assets/images/19.JPG" type="FILL"/>
-    <image path="assets/images/20.JPG" type="FILL"/>
-    <image path="assets/images/21.JPG" type="FILL"/>
-    <image path="assets/images/22.JPG" type="FILL"/>
-    <image path="assets/images/23.JPG" type="FILL"/>
-    <image path="assets/images/24.JPG" type="FILL"/>
-    <image path="assets/images/25.JPG" type="FILL"/>
-    <image path="assets/images/26.JPG" type="FILL"/>
-    <image path="assets/images/27.JPG" type="FILL"/>
-    <image path="assets/images/28.JPG" type="FILL"/>
-    <image path="assets/images/29.JPG" type="FILL"/>
+		<image path="assets/images/1.JPG" type="STRETCH"/>
+		<image path="assets/images/2.JPG" type="STRETCH"/>
+		<image path="assets/images/3.JPG" type="STRETCH"/>
+		<image path="assets/images/4.JPG" type="STRETCH"/>
+		<image path="assets/images/5.JPG" type="STRETCH"/>
+		<image path="assets/images/6.JPG" type="STRETCH"/>
+		<image path="assets/images/7.JPG" type="STRETCH"/>
+		<image path="assets/images/8.JPG" type="STRETCH"/>
+		<image path="assets/images/9.JPG" type="STRETCH"/>
+		<image path="assets/images/10.JPG" type="STRETCH"/>
+		<image path="assets/images/11.JPG" type="STRETCH"/>
+		<image path="assets/images/12.JPG" type="STRETCH"/>
+		<image path="assets/images/13.JPG" type="STRETCH"/>
+		<image path="assets/images/14.JPG" type="STRETCH"/>
+		<image path="assets/images/15.JPG" type="STRETCH"/>
+		<image path="assets/images/16.JPG" type="STRETCH"/>
+		<image path="assets/images/17.JPG" type="STRETCH"/>
+		<image path="assets/images/18.JPG" type="STRETCH"/>
+    <image path="assets/images/19.JPG" type="STRETCH"/>
+    <image path="assets/images/20.JPG" type="STRETCH"/>
+    <image path="assets/images/21.JPG" type="STRETCH"/>
+    <image path="assets/images/22.JPG" type="STRETCH"/>
+    <image path="assets/images/23.JPG" type="STRETCH"/>
+    <image path="assets/images/24.JPG" type="STRETCH"/>
+    <image path="assets/images/25.JPG" type="STRETCH"/>
+    <image path="assets/images/26.JPG" type="STRETCH"/>
+    <image path="assets/images/27.JPG" type="STRETCH"/>
+    <image path="assets/images/28.JPG" type="STRETCH"/>
+    <image path="assets/images/29.JPG" type="STRETCH"/>
 	</slideshow>	
 	<slideshow duration="4000">
-		<image path="assets/images/birthday_background.jpg" type="FILL"/>
+		<image path="assets/images/birthday_background.jpg" type="STRETCH"/>
 	</slideshow>
 </root>
