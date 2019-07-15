@@ -10,7 +10,7 @@
   <sound enabled="true" link="assets/audio/Xinloianhyeuem.mp3"/>
   <fullscreen enabled="true"/>		
 	<slideshow duration="4000">
-		<image path="assets/images/IMG_4275.mp4" type="FILL"/>
+		<image path="assets/images/IMG_4275.mp4" type="FIT"/>
 	</slideshow>
 	<slideshow duration="4000">
 		<image path="assets/images/1.JPG" type="FIT"/>
